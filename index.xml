@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>简单美好杨的博客</title>
+    <link>/</link>
+    <description>Recent content on 简单美好杨的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 15 Nov 2023 09:58:39 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>/post/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Wed, 15 Nov 2023 09:58:39 +0800</pubDate>
+      <guid>/post/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>我的测试博客</title>
+      <link>/post/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/post/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</guid>
+      <description>ai-test
+我的测试博客
+ChatGPT 对接open api MINIMAX_ABAB5_COMPLETION(CompanyType.MINIMAX, &amp;#34;abab5-completion&amp;#34;), MINIMAX_ABAB4_CHAT(CompanyType.MINIMAX, &amp;#34;abab4-chat&amp;#34;), MINIMAX_ABAB5_CHAT(CompanyType.MINIMAX, &amp;#34;abab5-chat&amp;#34;), OPENAI_GPT_35(CompanyType.OPEN_AI, &amp;#34;gpt-35-turbo&amp;#34;), OPENAI_GPT_4(CompanyType.OPEN_AI, &amp;#34;gpt-4&amp;#34;), OPENAI_GPT_4_32K(CompanyType.OPEN_AI, &amp;#34;gpt-4-32k&amp;#34;), OPENAI_EMBEDDING_ADA(CompanyType.OPEN_AI, &amp;#34;text-embedding-ada&amp;#34;), TENCENT_SPEECH_RECOGNITION(CompanyType.TENCENT, &amp;#34;speech-recognition&amp;#34;); StructBERT零样本分类-中文 https://www.modelscope.cn/models/damo/nlp_structbert_zero-shot-classification_chinese-base/summary
+start start 我的测试博客
+测试图片232
+dddfdsffdxx</description>
+    </item>
+    <item>
+      <title>start-test</title>
+      <link>/post/start/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/start/</guid>
+      <description>test
+我的测试博客</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/post/ai/ai-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/ai/ai-test/</guid>
+      <description>AI Test 我的测试博客
+我的测试博客
+我的测试博客
+我的测试博客
+ai-test
+start</description>
+    </item>
+  </channel>
+</rss>

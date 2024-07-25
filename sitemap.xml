@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2023-11-15T09:58:39+08:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-11-15T09:58:39+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-11-15T09:58:39+08:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/github/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gitment/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/start/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/ai/ai-test/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url>
+</urlset>
